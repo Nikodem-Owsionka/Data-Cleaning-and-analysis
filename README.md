@@ -26,12 +26,13 @@ The dataset contains cafe transaction records, including the following variables
 | Location | The location where the transaction occured |
 | Transaction Date | Date of the transaction |
 
+## Libraries needed
+
 ## Data cleaning
 
 ## Exploratory data Analysis
 
 ## Key Findings
 
-## Libraries needed
 
 
