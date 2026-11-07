@@ -28,9 +28,9 @@ The dataset contains cafe transaction records, including the following variables
 
 ## Libraries needed
 
-## Data cleaning
+## Data Cleaning
 
-## Exploratory data Analysis
+## Exploratory Data Analysis
 
 ## Key Findings
 
